@@ -23,3 +23,5 @@ $ ./bstudio
 
 
 PS :- This crack is nor developed by me or neither I am connect to this crack in anyway. This crack was intended for the windows/macos version and I just did a little extraction, copy and paste to make it work for the linux version because this version was not available for linux.
+
+And a very little (almost null) idea credit to [DesmondWasHere](https://github.com/DesmondWasHere)
